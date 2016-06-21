@@ -1,0 +1,7 @@
+C:\Users\Fatih\Documents\GitHub\Bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+C:\Users\Fatih\Documents\GitHub\Bank\BankTest\bin\Debug\BankTest.dll
+C:\Users\Fatih\Documents\GitHub\Bank\BankTest\bin\Debug\BankTest.pdb
+C:\Users\Fatih\Documents\GitHub\Bank\BankTest\bin\Debug\Bank.dll
+C:\Users\Fatih\Documents\GitHub\Bank\BankTest\bin\Debug\Bank.pdb
+C:\Users\Fatih\Documents\GitHub\Bank\BankTest\obj\Debug\BankTest.dll
+C:\Users\Fatih\Documents\GitHub\Bank\BankTest\obj\Debug\BankTest.pdb
